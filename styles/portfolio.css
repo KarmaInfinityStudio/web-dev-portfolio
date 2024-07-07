@@ -75,7 +75,9 @@ nav ul {
     align-items: center;
 
 }
-
+.text-center {
+    text-align: center;
+}
 .banner-greetings {
     font-size: 45px;
     font-weight: 600;
